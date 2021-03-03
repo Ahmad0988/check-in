@@ -1,0 +1,13 @@
+C:\Users\insaa\source\repos\projekt\projekt\bin\Debug\projekt.exe.config
+C:\Users\insaa\source\repos\projekt\projekt\bin\Debug\projekt.exe
+C:\Users\insaa\source\repos\projekt\projekt\bin\Debug\projekt.pdb
+C:\Users\insaa\source\repos\projekt\projekt\obj\Debug\projekt.csprojAssemblyReference.cache
+C:\Users\insaa\source\repos\projekt\projekt\obj\Debug\projekt.Properties.Resources.resources
+C:\Users\insaa\source\repos\projekt\projekt\obj\Debug\projekt.csproj.GenerateResource.cache
+C:\Users\insaa\source\repos\projekt\projekt\obj\Debug\projekt.csproj.CoreCompileInputs.cache
+C:\Users\insaa\source\repos\projekt\projekt\obj\Debug\projekt.exe
+C:\Users\insaa\source\repos\projekt\projekt\obj\Debug\projekt.pdb
+C:\Users\insaa\source\repos\projekt\projekt\obj\Debug\projekt.Form1.resources
+C:\Users\insaa\source\repos\projekt\projekt\obj\Debug\projekt.Form2.resources
+C:\Users\insaa\source\repos\projekt\projekt\obj\Debug\projekt.Form4.resources
+C:\Users\insaa\source\repos\projekt\projekt\obj\Debug\projekt.Form3.resources
